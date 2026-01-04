@@ -1,22 +1,22 @@
 programa {
   funcao inicio() {
-    /* ExÈrcicio 5 - EmprÈstimo Banco ?? */
+    /* Ex√©rcicio 5 - Empr√©stimo Banco üè¶ */
     cadeia nome
     real valorRS, emprestimo, resultado
 
-    escreva("\n Digite o nome do usu·rio: ")
+    escreva("\n Digite o nome do usu√°rio: ")
     leia(nome)
 
     escreva("\n Por conta da viagem, ", nome, 
-            " precisar· de \n um emprÈstimo no banco.\n")
+            " precisar√° de \n um empr√©stimo no banco.\n")
     escreva(" Digite o valor que ", nome, " tem em: R$ ")
     leia(valorRS)
 
-    escreva("\n Digite o valor (%) do emprÈstimo: ")
+    escreva("\n Digite o valor (%) do empr√©stimo: ")
     leia(emprestimo)
 
     resultado = valorRS + (valorRS * emprestimo / 100)
 
-    escreva("\n O valor final ser· de: R$ ", resultado)
+    escreva("\n O valor final ser√° de: R$ ", resultado)
   }
 }
