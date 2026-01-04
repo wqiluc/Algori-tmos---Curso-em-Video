@@ -1,18 +1,18 @@
 programa {
   funcao inicio() {
-    /* Exercício 3 - Temperatura ???? */
+    /* ExercÃ­cio 3 - Temperatura ğŸ¥¶ğŸ¥µ */
 
     cadeia nome
     real f, c
 
-    escreva("Digite o nome do usuário: ")
+    escreva("Digite o nome do usuÃ¡rio: ")
     leia(nome)
 
-    escreva("Digite a temperatura em ºF: ")
+    escreva("Digite a temperatura em ÂºF: ")
     leia(f)
 
     c = (f - 32) * 5 / 9
 
-    escreva("\n", nome, ", a temperatura em Celsius é: ", c, " ºC")
+    escreva("\n", nome, ", a temperatura em Celsius Ã©: ", c, " ÂºC")
   }
 }
