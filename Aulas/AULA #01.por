@@ -133,8 +133,8 @@ inicio
    escreva("Quantos termos da sequência deseja? ")
    leia(numero)
 
-   a <- 0
-   b <- 1
+   a = 0
+   b = 1
 
    escreva(a, " ==> ", b, " ==> ")
 
