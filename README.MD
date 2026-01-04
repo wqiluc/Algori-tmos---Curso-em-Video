@@ -91,7 +91,7 @@ Lucas Paguetti Pereira 🧙‍♂️
 
 ---
 
-<h2 align="center">📂 Estrutura do Projeto: </h2>
+<h2 align="center">📁 Estrutura do Projeto: </h2>
 <pre>
 ├── Exércicios das aulas/
 ├──         └── códigos resolvidos das aulas em .por (Portugol Studio💡)
@@ -102,7 +102,7 @@ Lucas Paguetti Pereira 🧙‍♂️
 │   └── Algorítmos_logo.jpeg
 │   └── Algorítmos_certificado.jpeg
 └── README.md
-└── LICENSE
+└── LICENSE (MIT)
 </pre>
 
 <h2 align="center">🏆 Certificado do Curso de Algoritmos 🖖</h2>
