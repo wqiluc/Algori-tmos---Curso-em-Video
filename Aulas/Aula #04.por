@@ -8,14 +8,14 @@ programa {
   escreva(" \n",numero3>numero2," \n")
   escreva(" \n",numero1!=numero2," \n")
   escreva(" \n",numero2>numero2," \n")
-  escreva("\n 5 é igual a ", numero1+numero2, "? ", "\n", numero1+numero2==numero3, " \n")
+  escreva("\n 5 Ã© igual a ", numero1+numero2, "? ", "\n", numero1+numero2==numero3, " \n")
   
 
-/* PORTAS LÓGICAS ???? */
-/* Portas Lógicas: E(AND), OU(OR), NAO(NOT)*/
-/* AND = Só é verdade quando ambas as situaçoes sao reais; */
-/* OR = É verdade quando pelo menos uma das situaçoes sao reais; */
-/* NOT = Inverte a natureza de uma situaçao; */
+/* PORTAS LÃ“GICAS ðŸšªâ‰ï¸ */
+/* Portas LÃ³gicas: E(AND), OU(OR), NAO(NOT)*/
+/* AND = SÃ³ Ã© verdade quando ambas as situaÃ§oes sao reais; */
+/* OR = Ã‰ verdade quando pelo menos uma das situaÃ§oes sao reais; */
+/* NOT = Inverte a natureza de uma situaÃ§ao; */
 
 
 escreva("\n" ,(numero1>numero2) ou (numero3>numero2), " \n")
