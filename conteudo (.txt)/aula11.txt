@@ -1,0 +1,18 @@
+🎓 Aula 11 — Laços de Repetição 3 (FOR / PARA)
+
+Objetivo:
+Automatizar repetições com contador
+
+📌 Exemplo (Portugol 💡):
+-----------------------------------
+Inicio
+  tipo: inteiro; indice
+  para indice = 1 ate 10 faca{
+     (escreva "Número: ", indice)}
+  fimpara
+Fim
+-----------------------------------
+
+✅ Dicas:
+- Ótimo para percorrer listas ou vetores; e
+- Sempre defina início, fim e incremento.

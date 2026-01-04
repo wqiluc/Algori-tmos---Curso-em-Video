@@ -1,0 +1,35 @@
+🎓 Aula 6 — Exercícios Resolvidos
+
+Objetivo:
+Fixar o conteúdo das aulas anteriores.
+
+💡 Exercício 1:
+Escreva um algoritmo que pergunte o nome do usuário e o cumprimente.
+
+📌 Exemplo (Portugol 💡):
+-----------------------------------
+Inicio
+  tipo: cadeia; nome
+  escreva ("Digite seu nome: ")
+  leia (nome)
+  escreva ("Olá, ", nome, "! Seja bem-vindo!")
+Fim
+-----------------------------------
+
+💡 Exercício 2:
+Peça dois números e mostre a soma deles.
+
+📌 Exemplo (Portugol):
+Inicio
+  tipo: inteiro; n1, n2, soma
+  escreva ("Digite o primeiro número: ")
+  leia (n1)
+  escreva ("Digite o segundo número: ")
+  leia (n2)
+  soma <- n1 + n2
+  escreva ("A soma é: ", soma)
+Fim
+
+✅ Dicas:
+- Sempre teste todos os casos possíveis; e
+- Praticar é essencial para consolidar lógica.

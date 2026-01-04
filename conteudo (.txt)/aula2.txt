@@ -1,0 +1,27 @@
+🎓 Aula 2 — Primeiro Algoritmo
+
+Objetivo:
+Colocar em prática o primeiro algoritmo com entradas e saídas de dados.
+
+💡 Conceitos:
+- Entrada de dados: leia()
+- Saída de dados: escreva()
+- Variáveis: espaço para armazenar informações temporárias
+
+📌 Exemplo (Portugol):
+-----------------------------------
+Inicio
+  tipo: inteiro; idade
+  escreva "Qual é sua idade? "
+  leia (idade)
+  escreva "Você tem ", idade, " anos."
+Fim
+-----------------------------------
+
+Explicação:
+- "idade" é uma variável inteira;
+- escreva() mostra informação ao usuário; e
+- leia() captura a entrada do usuário
+
+📝✅ Dica:
+Sempre declare a variável antes de usar e escolha nomes significativos.

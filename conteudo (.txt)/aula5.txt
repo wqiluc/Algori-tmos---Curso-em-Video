@@ -1,0 +1,19 @@
+🎓 Aula 5 — Introdução ao Scratch (Lógica Visual)
+
+Objetivo:
+Visualizar lógica de programação de forma interativa.
+
+💡 Conceitos:
+- Eventos: ações que disparam o código;
+- Blocos de decisão: se, senão; e
+- Loops: repetir ações automaticamente.
+
+📌 Exemplo de fluxo:
+1️⃣ Quando clicar na bandeira verde
+2️⃣ Perguntar "Qual é sua idade?"
+3️⃣ Se idade >= 18 → "Maior de idade"
+4️⃣ Senão → "Menor de idade"
+
+✅ Dicas:
+- Scratch ajuda a entender lógica sem digitar; e
+- Muito útil para iniciantes 🖐️.

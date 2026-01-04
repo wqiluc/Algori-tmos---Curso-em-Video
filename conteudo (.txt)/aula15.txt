@@ -1,0 +1,29 @@
+🎓 Aula 15 — Matrizes
+
+Objetivo:
+Armazenar dados em tabelas (duas dimensões)
+
+📌 Exemplo (Portugol):
+-----------------------------------
+Inicio
+  inteiro matriz[3,3]
+  para indice = 1 até 3{
+     para j = 1 ate 3 faca{
+        escreva ("Digite elemento [", i, ",", j, "]: ")}
+        leia matriz[i,j]}
+     fimpara
+  fimpara
+
+  escreva "Matriz completa: "
+  para indice = 1 até 3{
+     para j = 1 ate 3{
+        (escreva matriz[i,j], " ")}}
+     fimpara
+     escreva (" ==> ")
+  fimpara
+Fim
+-----------------------------------
+
+✅Dicas:
+- Matrizes são vetores de vetores; e
+- Úteis para jogos, tabelas, planilhas e mapas.

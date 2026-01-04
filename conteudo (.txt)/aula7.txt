@@ -1,0 +1,22 @@
+🎓 Aula 7 — Estruturas Condicionais 1
+
+Objetivo:
+Aprender a tomar decisões com SE … SENÃO
+
+📌 Exemplo (Portugol 💡):
+-----------------------------------
+Inicio
+  tipo: inteiro; media
+  escreva ("Digite sua media: ")
+  leia (media)
+  se (nota >= 7){
+     escreva "Aprovado ✅"{}
+  senao {
+     escreva "Reprovado ❌"}
+  fimse
+Fim
+-----------------------------------
+
+✅ Dicas:
+- Use >=, <=, == para condições; e
+- Sempre preveja o caso "senão".

@@ -1,0 +1,32 @@
+🎓 Aula 1 — Introdução a Algoritmos
+
+Objetivo:
+Introduzir o conceito de algoritmo e preparar o aluno para pensar logicamente antes de programar.
+
+📌 Conceito:
+Um algoritmo é um conjunto de passos ordenados que resolvem um problema específico.
+Pode ser escrito em:
+- Fluxograma;
+- Pseudocódigo; e
+- Linguagem real (mais tarde)
+
+💡 Exemplo prático (Portugol):
+-----------------------------------
+Inicio
+  escreva ("Bem-vindo ao Curso de Algoritmos!")
+Fim
+-----------------------------------
+
+Importância:
+- Ensina lógica de programação;
+- Facilita a resolução de problemas; e
+- Cria base para qualquer linguagem de programação.
+
+🔹 Dica: Pense em algoritmos no dia a dia
+Exemplo: Escovar os dentes 🪥
+1. Pegar a escova;
+2. Passar pasta;
+3. Escovar todos os dentes; e
+4. Enxaguar
+
+✅ O aluno começa a desenvolver raciocínio lógico.

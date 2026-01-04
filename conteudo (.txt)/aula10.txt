@@ -1,0 +1,19 @@
+🎓 Aula 10 — Laços de Repetição 2 (REPITA ... ATÉ)
+
+Objetivo:
+Aprender loops com teste no final
+
+📌 Exemplo (Portugol ):
+-----------------------------------
+Inicio
+  tipo: inteiro; numero
+  repita{
+     escreva "Digite um número maior que 0: "}
+     (leia numero)
+  ate n > 0
+Fim
+-----------------------------------
+
+✅ Dicas:
+- Útil quando a entrada precisa ser validada; e
+- Diferente do ENQUANTO, testa a condição depois.

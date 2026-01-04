@@ -1,0 +1,26 @@
+🎓 Aula 13 — Funções
+
+Objetivo:
+Criar funções que retornam valores
+
+📌 Exemplo (Portugol💡):
+-----------------------------------
+Funcao soma(inteiro a, inteiro b)
+
+tipo: inteiro; resultado
+
+resultado = 0
+
+  retorne a + b
+FimFuncao
+
+Inicio
+  inteiro resultado
+  resultado = soma(5, 3)
+  escreva "Resultado: ", resultado
+Fim
+-----------------------------------
+
+✅Dicas:
+- Funções retornam valores; e
+- Úteis para cálculos e lógica modular.

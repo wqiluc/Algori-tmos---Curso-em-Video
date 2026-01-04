@@ -1,0 +1,19 @@
+🎓 Aula 12 — Procedimentos
+
+Objetivo:
+Reutilizar código com procedimentos
+
+📌 Exemplo (Portugol 💡):
+-----------------------------------
+Procedimento saudacao()
+  (escreva "Olá! Seja bem-vindo!")
+FimProcedimento
+
+Inicio
+  saudacao()
+Fim
+-----------------------------------
+
+✅ Dicas:
+- Procedimentos não retornam valores;
+- Podem receber parâmetros para maior flexibilidade.

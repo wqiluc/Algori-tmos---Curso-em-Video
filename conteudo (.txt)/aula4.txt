@@ -1,0 +1,27 @@
+🎓 Aula 4 — Operadores Lógicos e Condições
+
+Objetivo:
+Entender como combinar condições para tomar decisões.
+
+💡 Operadores lógicos:
+- E (AND) → todas as condições devem ser verdadeiras;
+- OU (OR) → pelo menos uma condição verdadeira; e
+- NÃO (NOT) → inverte o valor lógico
+
+📌 Exemplo (Portugol 💡):
+-----------------------------------
+Inicio
+  tipo: inteiro; idade
+  escreva ("Digite sua idade: ")
+  leia (idade)
+  se (idade >= 18){
+     escreva "Você é maior de idade."}
+  senao {
+     escreva "Você é menor de idade."}
+  fimse
+Fim
+-----------------------------------
+
+✅ Dicas:
+- Use AND/OU para combinar múltiplas condições; e
+- Sempre pense no "senão" para lidar com exceções.

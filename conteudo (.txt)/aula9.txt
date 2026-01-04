@@ -1,0 +1,20 @@
+🎓 Aula 9 — Laços de Repetição 1 (ENQUANTO)
+
+Objetivo:
+Repetir ações enquanto uma condição for verdadeira
+
+📌 Exemplo (Portugol 💡):
+-----------------------------------
+Inicio
+  tipo: inteiro; contador
+  contador = 0
+  enquanto (contador <= 5){
+     escreva "Contador: ", contador}
+     contador += 1
+  fimenquanto
+Fim
+-----------------------------------
+
+✅ Dicas:
+- Cuidado com loops infinitos 🔁; e
+- Sempre altere a variável de controle 🕹️.

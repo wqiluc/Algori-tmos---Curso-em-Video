@@ -1,0 +1,23 @@
+🎓 Aula 14 — Vetores
+
+Objetivo:
+Armazenar múltiplos valores do mesmo tipo
+
+📌 Exemplo (Portugol ✅):
+-----------------------------------
+Inicio
+  inteiro numeros[5]
+  para indice = 1 até 5 {
+     (escreva "Digite um número: ")}
+     leia (numeros[indice])
+  fimpara
+  escreva ("Os números digitados foram: ")
+  para indice <- 1 ate 5{
+     (escreva numeros[i])}
+  fimpara
+Fim
+-----------------------------------
+
+✅ Dicas:
+- Vetores começam geralmente no índice 1 ou 0 dependendo do ambiente; e
+- Úteis para armazenar listas de dados.

@@ -1,0 +1,27 @@
+🎓 Aula 3 — Operadores e Expressões 
+
+Objetivo:
+Aprender a realizar cálculos e comparações com operadores.
+
+💡 Tipos de operadores:
+- Aritméticos: +, -, *, /, %
+- Relacionais: >, <, >=, <=, ==, !=
+- Lógicos: E, OU, NÃO
+
+📌 Exemplo (Portugol):
+-----------------------------------
+Inicio
+  tipo: inteiro; a, b, soma
+  escreva "Digite o valor de a: "
+  leia (a)
+  escreva "Digite o valor de b: "
+  leia (b)
+  soma = a + b
+  escreva "A soma é entre ", a, " + ", b, " é = ", soma
+Fim
+-----------------------------------
+
+Dicas ⚙️:
+- % retorna o resto da divisão;
+- Operadores relacionais são úteis para decisões futuras; e
+- Use parênteses para priorizar operações.
