@@ -1,11 +1,11 @@
 programa {
   funcao inicio() {
-    /* Exércicio 2 - Compra de Dollar ?? */
+    /* ExÃ©rcicio 2 - Compra de Dollar ðŸ’¸ */
     cadeia nome
     real reais
-    escreva("\n Digite o nome do usuário: ")
+    escreva("\n Digite o nome do usuÃ¡rio: ")
     leia (nome)
-    escreva(nome, " fará uma viagem ao exterior e precisa\n comprar Dollares.\n Digite o quanto ele tem em Reais: R$")
+    escreva(nome, " farÃ¡ uma viagem ao exterior e precisa\n comprar Dollares.\n Digite o quanto ele tem em Reais: R$")
     leia(reais)
     escreva("\n Com: R$ ", reais, nome, " consegue comprar: ", reais / 5.42, " U$D")  
   }
